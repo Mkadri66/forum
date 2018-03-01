@@ -1,0 +1,17 @@
+nav {
+    background-color: #74b9ff;
+    padding : 10px;
+}
+
+nav a {
+    color: white;
+    font-size: 20px;
+}
+*
+main {
+    min-height: 100vh;
+}
+
+.connect {
+    padding-top: 30px;
+}

@@ -1,0 +1,5 @@
+1:      NavigationManagement::route
+10:     KernelController::launcher ... previous
+11:     KernelController::launcher
+20:     KernelController::render
+100:    KernelModel::query ... previous

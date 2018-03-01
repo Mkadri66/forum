@@ -1,0 +1,1 @@
+<p>Page par défaut</p>
