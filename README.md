@@ -1,6 +1,7 @@
 #forum
 
 Mise en place d'un mini forum avec le design pattern MVC ( Modele Vue Controller)
+Technologies utilisées : HTML CSS PHP SQL
 
     - connexion au forum.
     - liste des conversations récupérées depuis la base de données(base de données SQL).
